@@ -1,0 +1,1 @@
+<h1>To examine the temperature in 10 years in Semarang, Central Java, Indonesia the data was taken from BMKG from 2011 to 2021</h1>
